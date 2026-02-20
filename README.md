@@ -1,0 +1,2 @@
+# Weather-Based-Prediction-of-Wind-Turbine-Energy-Output
+This project predicts wind turbine energy output from weather data using machine learning. Historical weather and power records train the model to forecast generation for current conditions, helping utilities and grid operators plan supply, balance demand, reduce losses, and optimize renewable energy production efficiently across regions today.
